@@ -1,6 +1,182 @@
 {
   "celeb-quiz": [
     {
+      "id": 10,
+      "img": "https://i.imgur.com/lLtNmqk.jpg",
+      "options": [
+        {
+          "text": "Lara Dutta",
+          "result": false
+        },
+        {
+          "text": "Karishma Tanna",
+          "result": false
+        },
+        {
+          "text": "Esha Gupta",
+          "result": true
+        },
+        {
+          "text": "Mehreen Pirzada",
+          "result": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "img": "https://i.imgur.com/FofHkEs.jpg",
+      "options": [
+        {
+          "text": "Amyra Dastur",
+          "result": false
+        },
+        {
+          "text": "Nusrath Bharucha",
+          "result": true
+        },
+        {
+          "text": "Neha Sharma",
+          "result": false
+        },
+        {
+          "text": "Nidhi Agarwal",
+          "result": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "img": "https://i.imgur.com/LK8Ejho.jpg",
+      "options": [
+        {
+          "text": "Aisha Sharma",
+          "result": false
+        },
+        {
+          "text": "Shibani Dandekar",
+          "result": false
+        },
+        {
+          "text": "Kajal Agarwal",
+          "result": false
+        },
+        {
+          "text": "Nidhi Agarwal",
+          "result": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "img": "https://i.imgur.com/3zGQItL.jpg",
+      "options": [
+        {
+          "text": "Tisca Chopra",
+          "result": false
+        },
+        {
+          "text": "Huma Qureishi",
+          "result": true
+        },
+        {
+          "text": "Konkana Sen Sharma",
+          "result": false
+        },
+        {
+          "text": "Vaani Kapoor",
+          "result": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "https://i.imgur.com/o3JdHdd.jpg",
+      "options": [
+        {
+          "text": "Nora Fatehi",
+          "result": true
+        },
+        {
+          "text": "Elli Evram",
+          "result": false
+        },
+        {
+          "text": "Andrea Jeremiah",
+          "result": false
+        },
+        {
+          "text": "Warina Hussain",
+          "result": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "img": "https://i.imgur.com/1836W7J.jpg",
+      "options": [
+        {
+          "text": "Disha Patani",
+          "result": false
+        },
+        {
+          "text": "Warina Hussain",
+          "result": false
+        },
+        {
+          "text": "Nusrath Barucha",
+          "result": false
+        },
+        {
+          "text": "Kriti Sanon",
+          "result": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "https://i.imgur.com/u3jtevV.jpg",
+      "options": [
+        {
+          "text": "Radhika Seth",
+          "result": false
+        },
+        {
+          "text": "Urvashi Rautela",
+          "result": true
+        },
+        {
+          "text": "Ruhani Sharma",
+          "result": false
+        },
+        {
+          "text": "Hina Khan",
+          "result": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://i.imgur.com/AQSyj62.jpg",
+      "options": [
+        {
+          "text": "Kriti Kharbanda",
+          "result": true
+        },
+        {
+          "text": "Kiara Advani",
+          "result": false
+        },
+        {
+          "text": "Rhea Chakraborty",
+          "result": false
+        },
+        {
+          "text": "Disha Patani",
+          "result": false
+        }
+      ]
+    },
+    {
       "id": 1,
       "img": "https://i.imgur.com/xSFBj6S.jpg",
       "options": [
